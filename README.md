@@ -12,4 +12,4 @@ https://architecture-landing-page.vercel.app/
 
 
 # features
-
+- Architecture landing page using Tailwind CSS and React JS
